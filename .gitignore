@@ -1,0 +1,4 @@
+# Project exclude paths
+/node_modules/
+/node_modules/sync-input/LICENSE
+/node_modules/sync-input/README.md

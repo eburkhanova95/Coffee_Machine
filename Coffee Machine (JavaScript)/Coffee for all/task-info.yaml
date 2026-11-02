@@ -1,0 +1,15 @@
+type: remote_edu
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/220/stages/1103/implement#comment
+check_profile: hyperskill_node_javascript
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 23 Oct 2026 10:51:26 UTC"
+record: -1
